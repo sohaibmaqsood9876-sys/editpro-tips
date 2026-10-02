@@ -900,7 +900,7 @@ J-K-L -> Reverse Play, Stop, Fast Forward Playback
 <h3>What is the most important advanced editing skill?</h3>
 <p>Storytelling and timing are among the most important skills. Effects should support those fundamentals rather than replace them.</p>
  }
-
+];
 // Trending articles numbered 01-05 as required by prompt requirement #8
 const TRENDING_ARTICLES = [
   {
